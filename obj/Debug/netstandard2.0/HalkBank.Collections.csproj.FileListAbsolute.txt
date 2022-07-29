@@ -1,0 +1,19 @@
+Z:\belgelerim\CBCXKDG\My Documents\Desktop\HalkBankCSharpDevelopment\HalkBank.Collections\bin\Debug\netstandard2.0\HalkBank.Collections.deps.json
+Z:\belgelerim\CBCXKDG\My Documents\Desktop\HalkBankCSharpDevelopment\HalkBank.Collections\bin\Debug\netstandard2.0\HalkBank.Collections.dll
+Z:\belgelerim\CBCXKDG\My Documents\Desktop\HalkBankCSharpDevelopment\HalkBank.Collections\bin\Debug\netstandard2.0\HalkBank.Collections.pdb
+Z:\belgelerim\CBCXKDG\My Documents\Desktop\HalkBankCSharpDevelopment\HalkBank.Collections\obj\Debug\netstandard2.0\HalkBank.Collections.csprojAssemblyReference.cache
+Z:\belgelerim\CBCXKDG\My Documents\Desktop\HalkBankCSharpDevelopment\HalkBank.Collections\obj\Debug\netstandard2.0\HalkBank.Collections.AssemblyInfoInputs.cache
+Z:\belgelerim\CBCXKDG\My Documents\Desktop\HalkBankCSharpDevelopment\HalkBank.Collections\obj\Debug\netstandard2.0\HalkBank.Collections.AssemblyInfo.cs
+Z:\belgelerim\CBCXKDG\My Documents\Desktop\HalkBankCSharpDevelopment\HalkBank.Collections\obj\Debug\netstandard2.0\HalkBank.Collections.dll
+Z:\belgelerim\CBCXKDG\My Documents\Desktop\HalkBankCSharpDevelopment\HalkBank.Collections\obj\Debug\netstandard2.0\HalkBank.Collections.pdb
+Z:\belgelerim\CBCXKDG\My Documents\Desktop\HalkBankCSharpDevelopment\HalkBank.Collections\obj\Debug\netstandard2.0\HalkBank.Collections.csproj.CoreCompileInputs.cache
+Z:\C#Eğitim\HalkBankCSharpDevelopment\HalkBank.Collections\bin\Debug\netstandard2.0\HalkBank.Collections.deps.json
+Z:\C#Eğitim\HalkBankCSharpDevelopment\HalkBank.Collections\bin\Debug\netstandard2.0\HalkBank.Collections.dll
+Z:\C#Eğitim\HalkBankCSharpDevelopment\HalkBank.Collections\bin\Debug\netstandard2.0\HalkBank.Collections.pdb
+Z:\C#Eğitim\HalkBankCSharpDevelopment\HalkBank.Collections\obj\Debug\netstandard2.0\HalkBank.Collections.AssemblyInfoInputs.cache
+Z:\C#Eğitim\HalkBankCSharpDevelopment\HalkBank.Collections\obj\Debug\netstandard2.0\HalkBank.Collections.AssemblyInfo.cs
+Z:\C#Eğitim\HalkBankCSharpDevelopment\HalkBank.Collections\obj\Debug\netstandard2.0\HalkBank.Collections.dll
+Z:\C#Eğitim\HalkBankCSharpDevelopment\HalkBank.Collections\obj\Debug\netstandard2.0\HalkBank.Collections.pdb
+Z:\C#Eğitim\HalkBankCSharpDevelopment\HalkBank.Collections\obj\Debug\netstandard2.0\HalkBank.Collections.csproj.AssemblyReference.cache
+Z:\C#Eğitim\HalkBankCSharpDevelopment\HalkBank.Collections\obj\Debug\netstandard2.0\HalkBank.Collections.GeneratedMSBuildEditorConfig.editorconfig
+Z:\C#Eğitim\HalkBankCSharpDevelopment\HalkBank.Collections\obj\Debug\netstandard2.0\HalkBank.Collections.csproj.CoreCompileInputs.cache

@@ -1,0 +1,8 @@
+Z:\belgelerim\CBCXKDG\My Documents\Desktop\HalkBankCSharpDevelopment\HalkBank.Collections\bin\Release\netstandard2.0\HalkBank.Collections.deps.json
+Z:\belgelerim\CBCXKDG\My Documents\Desktop\HalkBankCSharpDevelopment\HalkBank.Collections\bin\Release\netstandard2.0\HalkBank.Collections.dll
+Z:\belgelerim\CBCXKDG\My Documents\Desktop\HalkBankCSharpDevelopment\HalkBank.Collections\bin\Release\netstandard2.0\HalkBank.Collections.pdb
+Z:\belgelerim\CBCXKDG\My Documents\Desktop\HalkBankCSharpDevelopment\HalkBank.Collections\obj\Release\netstandard2.0\HalkBank.Collections.csprojAssemblyReference.cache
+Z:\belgelerim\CBCXKDG\My Documents\Desktop\HalkBankCSharpDevelopment\HalkBank.Collections\obj\Release\netstandard2.0\HalkBank.Collections.AssemblyInfoInputs.cache
+Z:\belgelerim\CBCXKDG\My Documents\Desktop\HalkBankCSharpDevelopment\HalkBank.Collections\obj\Release\netstandard2.0\HalkBank.Collections.AssemblyInfo.cs
+Z:\belgelerim\CBCXKDG\My Documents\Desktop\HalkBankCSharpDevelopment\HalkBank.Collections\obj\Release\netstandard2.0\HalkBank.Collections.dll
+Z:\belgelerim\CBCXKDG\My Documents\Desktop\HalkBankCSharpDevelopment\HalkBank.Collections\obj\Release\netstandard2.0\HalkBank.Collections.pdb
